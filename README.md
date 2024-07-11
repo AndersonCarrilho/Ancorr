@@ -1,5 +1,7 @@
 # Micro Programa BTC
 
+Baixe todos os scripts para que o Ancorr.py funcione, instale todas as bibliotecas pedidas, e faça seus testes e melhorias, caso considere alguma melhora, ficarei feliz em atende-lo.
+
     Gerador de Wallets Bitcoin de Todos os Padrões
     Gerador de Mnemonics de 12 - 18 - 24 frases
     Consultor de Wallets em Massa - Insiridas por espaço, virgulas, ou linhas
